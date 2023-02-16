@@ -1,13 +1,20 @@
-# Premier-League-Face-Recognition-API
-An unofficial API client to search players using the player reference image and get the player Stats data from the Premier League
-<h2>Setup Details</h2>
-Follow the following instructions to run the application and start using the api in your local pc
-<li>Clone the repository</li>
-<li>Open the terminal, navigate to the folder where your clone of this repository is located and type:
-  
-  `$ pip install -r requirements.txt` </li>
-
-<li> Type $ python main.py in the terminal and the script will run for as long as you let it. </li>
+<h1>Premier League Player Recognition App</h1>
+    <p>Welcome to the Premier League Player Recognition App. This application uses machine learning to recognize Premier League players in images and retrieve their stats. Follow the steps below to get started.</p>
+    <h2>Getting Started</h2>
+    <ol>
+      <li>Clone this repository to your local machine.</li>
+      <li>Install the required libraries by running <code>pip install -r requirements.txt</code> in your terminal.</li>
+      <li>Navigate to the project directory in your terminal.</li>
+      <li>Run <code>python main.py</code> in your terminal.</li>
+      <li>Open your browser and go to <a href="http://localhost:8080">http://localhost:8080</a> to access the web application.</li>
+    </ol>
+    <h2>How to Use</h2>
+    <ol>
+      <li>Click on the "Choose File" button and select an image of a Premier League player.</li>
+      <li>Click the "Upload File" button to upload the image.</li>
+      <li>The application will recognize the player in the image and retrieve their Premier League stats.</li>
+      <li>The player's name and stats will be displayed on the results page.</li>
+    </ol>
 
 <H2>Home Page</H2>
 <ul>
